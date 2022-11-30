@@ -1,2 +1,2 @@
 My first edited readme
-My updated git project
+My git hub project
